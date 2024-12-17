@@ -1,0 +1,2 @@
+# StegoCoreQt
+steganography QT engine
