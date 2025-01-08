@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Toolbar.qml</file>
+        <file>qml/ImagePart.qml</file>
+        <file>qml/PropertiesWin.qml</file>
+        <file>qml/Thumbnail.qml</file>
+    </qresource>
+</RCC>
